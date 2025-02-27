@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "start-server-and-test": "^2.0.10"
   }
 }
